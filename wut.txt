@@ -17,4 +17,8 @@ you're being updated after some time yougn sir! :D:D
 
 another update
 
+<<<<<<< HEAD
 but this is being updated again:(
+=======
+branching out into new levels:D
+>>>>>>> anotherbranch
